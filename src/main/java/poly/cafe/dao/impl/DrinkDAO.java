@@ -9,7 +9,8 @@ import poly.cafe.entity.Drink;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface DrinkDAO extends CrudDAO<Drink, String>{
     List<Drink> findByCategoryId(String categoryId);

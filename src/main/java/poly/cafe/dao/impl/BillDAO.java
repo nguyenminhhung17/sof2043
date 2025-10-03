@@ -10,7 +10,8 @@ import poly.cafe.entity.Bill;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface BillDAO extends CrudDAO<Bill, Long>{
     List<Bill> findByUsername(String username);

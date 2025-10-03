@@ -25,7 +25,8 @@ import poly.cafe.ui.manager.UserManagerJDialog;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface PolyCafeController {
  /**

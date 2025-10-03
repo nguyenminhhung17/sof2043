@@ -7,7 +7,8 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class PolyCafe {
     public static void main(String[] args) {

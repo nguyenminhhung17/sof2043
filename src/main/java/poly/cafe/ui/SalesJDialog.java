@@ -23,7 +23,8 @@ import poly.cafe.entity.Card;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class SalesJDialog extends JDialog implements SalesController {
 

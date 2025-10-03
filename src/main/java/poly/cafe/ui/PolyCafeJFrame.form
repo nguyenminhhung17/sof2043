@@ -27,10 +27,15 @@
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="lblFullname" min="-2" max="-2" attributes="0"/>
-                          <Component id="lblPhoto" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+                              <Component id="lblPhoto" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                              <Component id="lblFullname" min="-2" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
                       <EmptySpace max="32767" attributes="0"/>
                       <Component id="pnlCenter" min="-2" pref="505" max="-2" attributes="0"/>
@@ -128,7 +133,7 @@
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="33" green="99" red="ff" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="L&#xea; Ng&#x1ecd;c H&#xe0;"/>
+        <Property name="text" type="java.lang.String" value="Nguy&#x1ec5;n Minh H&#x1b0;ng"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="btnSales1">

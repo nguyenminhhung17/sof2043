@@ -10,7 +10,8 @@ import poly.cafe.util.XQuery;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class DrinkDAOImpl implements DrinkDAO {
  String createSql = "…";

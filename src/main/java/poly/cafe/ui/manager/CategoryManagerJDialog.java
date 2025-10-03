@@ -14,7 +14,8 @@ import poly.cafe.util.XDialog;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class CategoryManagerJDialog extends JDialog implements CategoryController {
 

@@ -6,7 +6,8 @@ package poly.cafe.ui.manager;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface RevenueController {
 

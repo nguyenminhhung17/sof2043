@@ -6,7 +6,8 @@ package poly.cafe.ui.manager;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface CrudController<Entity> {
      void open(); // Xử lý mở cửa sổ

@@ -10,7 +10,8 @@ import poly.cafe.util.XIcon;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public final class PolyCafeJFrame extends javax.swing.JFrame implements PolyCafeController {
 
@@ -63,7 +64,7 @@ public final class PolyCafeJFrame extends javax.swing.JFrame implements PolyCafe
 
         lblFullname.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         lblFullname.setForeground(new java.awt.Color(255, 153, 51));
-        lblFullname.setText("Lê Ngọc Hà");
+        lblFullname.setText("Nguyễn Minh Hưng");
 
         btnSales1.setText("BÁN HÀNG");
         btnSales1.addActionListener(new java.awt.event.ActionListener() {
@@ -148,10 +149,13 @@ public final class PolyCafeJFrame extends javax.swing.JFrame implements PolyCafe
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(69, 69, 69)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(lblFullname)
-                            .addComponent(lblPhoto))
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(69, 69, 69)
+                                .addComponent(lblPhoto))
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(47, 47, 47)
+                                .addComponent(lblFullname)))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(pnlCenter, javax.swing.GroupLayout.PREFERRED_SIZE, 505, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18))

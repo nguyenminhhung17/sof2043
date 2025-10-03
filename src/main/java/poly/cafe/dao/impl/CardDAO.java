@@ -8,7 +8,7 @@ import poly.cafe.entity.Card;
 
 /**
  *
- * @author lengh
+ * @author leaf
  */
 public interface CardDAO extends CrudDAO<Card, Integer>{
 

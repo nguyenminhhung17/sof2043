@@ -8,7 +8,8 @@ import poly.cafe.util.XDialog;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface LoginController {
 

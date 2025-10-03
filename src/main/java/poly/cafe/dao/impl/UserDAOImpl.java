@@ -10,7 +10,8 @@
 //
 ///**
 // *
-// * @author lengh
+// * @author leaf
+
 // */
 //public class UserDAOImpl implements UserDAO {
 //    String createSql = "…";

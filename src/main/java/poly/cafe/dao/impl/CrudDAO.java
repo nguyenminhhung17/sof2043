@@ -8,7 +8,8 @@ import java.util.List;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface CrudDAO<T, ID> {
     T create(T entity);

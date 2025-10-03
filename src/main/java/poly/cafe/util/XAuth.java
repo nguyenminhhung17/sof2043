@@ -8,7 +8,8 @@ import poly.cafe.entity.User;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class XAuth {
     public static User user = User.builder()

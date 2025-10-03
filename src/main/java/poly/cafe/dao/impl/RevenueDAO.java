@@ -10,7 +10,8 @@ import poly.cafe.entity.Revenue;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface RevenueDAO{
  /**

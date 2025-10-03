@@ -6,7 +6,8 @@ package poly.cafe.ui;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class WelcomeJDialog extends javax.swing.JDialog implements WelcomeController {
 

@@ -23,7 +23,8 @@ import poly.cafe.util.XIcon;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class DrinkManagerJDialog extends JDialog implements DrinkController {
     

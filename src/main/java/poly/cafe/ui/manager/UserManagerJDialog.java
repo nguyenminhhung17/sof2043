@@ -18,7 +18,8 @@ import poly.cafe.util.XIcon;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class UserManagerJDialog extends JDialog implements UserController{
 

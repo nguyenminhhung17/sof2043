@@ -11,7 +11,7 @@ import poly.cafe.util.XQuery;
 
 /**
  *
- * @author lengh
+ * @author leaf
  */
 public class CategoryDAOImpl implements CategoryDAO {
 

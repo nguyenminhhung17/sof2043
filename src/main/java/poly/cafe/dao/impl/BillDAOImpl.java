@@ -13,7 +13,7 @@ import poly.cafe.util.XQuery;
 
 /**
  *
- * @author lengh
+ * @author leaf
  */
 public class BillDAOImpl implements BillDAO {
 

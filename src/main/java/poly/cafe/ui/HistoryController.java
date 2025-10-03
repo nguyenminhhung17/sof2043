@@ -6,7 +6,8 @@ package poly.cafe.ui;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface HistoryController {
 

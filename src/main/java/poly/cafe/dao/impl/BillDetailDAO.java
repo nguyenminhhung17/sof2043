@@ -11,7 +11,8 @@ import poly.cafe.entity.BillDetail;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface BillDetailDAO extends CrudDAO<BillDetail, Long> {
 

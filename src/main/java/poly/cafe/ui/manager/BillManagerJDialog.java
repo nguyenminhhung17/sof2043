@@ -20,7 +20,8 @@ import poly.cafe.util.XDate;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class BillManagerJDialog extends JDialog implements BillController {
 

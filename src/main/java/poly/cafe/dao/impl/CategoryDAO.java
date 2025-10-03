@@ -8,7 +8,8 @@ import poly.cafe.entity.Category;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface CategoryDAO extends CrudDAO<Category, String>{
     

@@ -24,7 +24,8 @@ import poly.cafe.dao.impl.BillDetailDAOImpl;
 @Setter
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class BillJDialog extends JDialog implements BillController {
 

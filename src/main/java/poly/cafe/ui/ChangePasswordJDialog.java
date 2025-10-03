@@ -11,7 +11,8 @@ import poly.cafe.util.XDialog;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class ChangePasswordJDialog extends javax.swing.JDialog implements ChangePasswordController {
 

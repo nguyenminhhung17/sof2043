@@ -21,7 +21,8 @@ import poly.cafe.util.XDialog;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class DrinkJDialog extends JDialog implements DrinkController {
 

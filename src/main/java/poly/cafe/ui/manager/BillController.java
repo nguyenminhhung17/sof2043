@@ -8,7 +8,8 @@ import poly.cafe.entity.Bill;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public interface BillController extends CrudController<Bill>{
      void fillBillDetails(); // tải và hiển thị chi tiết phiếu

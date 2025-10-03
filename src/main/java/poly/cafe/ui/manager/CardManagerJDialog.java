@@ -14,7 +14,8 @@ import poly.cafe.util.XDialog;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class CardManagerJDialog extends JDialog implements CardController {
 

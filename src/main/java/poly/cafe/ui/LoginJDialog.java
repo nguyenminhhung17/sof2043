@@ -12,7 +12,8 @@ import poly.cafe.util.XDialog;
 
 /**
  *
- * @author lengh
+ * @author leaf
+
  */
 public class LoginJDialog extends javax.swing.JDialog implements LoginController {
 
