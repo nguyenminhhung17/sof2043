@@ -10,7 +10,6 @@ Description:
 This project was developed to apply knowledge of Java Swing for UI design and JDBC for database connectivity with SQL Server.
 
 It supports product management, billing, user management, and provides Admin/Staff role-based access.
-
 ---
 
 ## ⚙️ Technologies Used
