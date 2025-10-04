@@ -8,6 +8,7 @@ Course: SOF2043 – Java Desktop
 
 Description:
 This project was developed to apply knowledge of Java Swing for UI design and JDBC for database connectivity with SQL Server.
+
 It supports product management, billing, user management, and provides Admin/Staff role-based access.
 
 ---
