@@ -2,7 +2,6 @@
 
 ---
 📝 Project Introduction
-
 Project name: Sales Management Application (Desktop)
 
 Course: SOF2043 – Java Desktop
